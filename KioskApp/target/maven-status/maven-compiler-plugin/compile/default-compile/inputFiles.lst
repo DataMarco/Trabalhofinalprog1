@@ -1,0 +1,17 @@
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\app\MainApp.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\controller\AdminController.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\controller\CartController.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\controller\MainController.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\controller\StartController.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\atendimento\Atendimento.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\atendimento\NumeroAtendimentoGenerator.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\atendimento\PedidoRestaurante.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\atendimento\StatusAtendimento.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\contrato\Adicionavel.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\contrato\Pagavel.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\item\Item.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\item\Produto.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\pedido\ItemPedido.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\pedido\ResumoPedido.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\repo\Pedido.java
+C:\Users\marco\OneDrive\Área de Trabalho\KioskApp\src\main\java\com\vicenzo\kiosk\model\repo\ProdutoRepo.java

@@ -1,0 +1,41 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #f7f7f7;
+}
+
+.header {
+    -fx-padding: 10 12;
+    -fx-background-color: #2b2d42;
+}
+
+.title {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+}
+
+.panel {
+    -fx-background-color: white;
+    -fx-padding: 10;
+    -fx-border-color: #e0e0e0;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+}
+
+.section-title {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.footer {
+    -fx-padding: 10 0 0 0;
+}
+
+.total-label {
+    -fx-font-weight: bold;
+}
+
+.total-value {
+    -fx-font-weight: bold;
+    -fx-text-fill: #0b6e4f;
+}

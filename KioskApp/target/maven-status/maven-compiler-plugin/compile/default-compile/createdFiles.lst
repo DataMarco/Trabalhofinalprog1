@@ -1,0 +1,7 @@
+com\vicenzo\kiosk\controller\MainController.class
+com\vicenzo\kiosk\controller\AdminController.class
+com\vicenzo\kiosk\model\repo\ProdutoRepo.class
+com\vicenzo\kiosk\controller\StartController.class
+com\vicenzo\kiosk\controller\CartController.class
+com\vicenzo\kiosk\model\repo\Pedido.class
+com\vicenzo\kiosk\app\MainApp.class

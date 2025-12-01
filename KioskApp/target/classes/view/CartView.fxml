@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.vicenzo.kiosk.controller.CartController">
+    <top>
+        <HBox spacing="12" styleClass="header">
+            <Label text="Carrinho" styleClass="title"/>
+            <Button text="Voltar para pedidos" onAction="#handleIrParaPedidos"/>
+        </HBox>
+    </top>
+
+    <center>
+        <VBox spacing="10" styleClass="panel">
+            <Label fx:id="lblMensagem" text="" />
+            <TableView fx:id="tblCarrinho" prefHeight="320">
+                <columns>
+                    <TableColumn fx:id="colItemNome" text="Item" prefWidth="180"/>
+                    <TableColumn fx:id="colItemQtd" text="Qtd" prefWidth="60"/>
+                    <TableColumn fx:id="colItemPreco" text="Preço" prefWidth="100"/>
+                    <TableColumn fx:id="colItemSubtotal" text="Subtotal" prefWidth="120"/>
+                </columns>
+            </TableView>
+            <HBox spacing="8">
+                <Button fx:id="btnIrParaPedidos" text="Ir para pedidos" onAction="#handleIrParaPedidos"/>
+                <Button text="Confirmar pedido" onAction="#handleConfirmarCarrinho"/>
+            </HBox>
+        </VBox>
+    </center>
+
+    <stylesheets>
+        view/styles.css
+    </stylesheets>
+
+    <padding>
+        <Insets topRightBottomLeft="12"/>
+    </padding>
+</BorderPane>
